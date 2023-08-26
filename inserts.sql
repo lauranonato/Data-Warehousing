@@ -235,7 +235,6 @@ VALUES
 
 
 
--- Inserções para o Cliente 1
 INSERT INTO `fact_event` (`id_event`, `id_stadium`, `id_game`, `id_client`, `id_time`, `qt_purchased`, `vl_purchased`)
 VALUES
 (41, 1, 1, 1, 1, 2, 100),
@@ -244,7 +243,6 @@ VALUES
 (44, 4, 4, 1, 20, 4, 140),
 (45, 5, 5, 1, 22, 2, 84);
 
--- Inserções para o Cliente 2
 INSERT INTO `fact_event` (`id_event`, `id_stadium`, `id_game`, `id_client`, `id_time`, `qt_purchased`, `vl_purchased`)
 VALUES
 (46, 6, 6, 2, 20, 1, 38),
@@ -253,7 +251,6 @@ VALUES
 (49, 9, 9, 2, 2, 1, 25),
 (50, 10, 10, 2, 1, 4, 128);
 
--- Inserções para o Cliente 3
 INSERT INTO `fact_event` (`id_event`, `id_stadium`, `id_game`, `id_client`, `id_time`, `qt_purchased`, `vl_purchased`)
 VALUES
 (51, 11, 11, 3, 5, 2, 110),
