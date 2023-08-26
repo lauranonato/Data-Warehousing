@@ -1,7 +1,7 @@
 # 
 This repository creates a data warehouse using snowflake model for a football game management company called "Moments" (fictional) and some SQL queries to analyse data.  
 
-Toolkit used in this repository: MySQL, dbdiagram.io and databricks.
+Toolkit used in this repository: MySQL and dbdiagram.io
 
 The design of data warehouse contains the fact event, the dimensions time, stadium, public, game and the sub dimension championship.
 
