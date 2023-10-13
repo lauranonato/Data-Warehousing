@@ -1,5 +1,5 @@
 # 
-This repository creates a data warehouse using snowflake model for a football game management company called "Moments" (fictional) and some SQL queries to analyse data.  
+This repository creates a data warehouse using snowflake model technique for a football game management company called "Moments" (fictional) and some SQL queries to analyse data.  
 
 Toolkit used in this repository: MySQL and dbdiagram.io
 
